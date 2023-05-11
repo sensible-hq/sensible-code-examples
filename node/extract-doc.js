@@ -13,7 +13,7 @@ import { Headers } from "node-fetch";
 const DOCUMENT_TYPE = "YOUR_DOCUMENT_TYPE";
 
 // The path to the PDF you'd like to extract from
-// If the PDF is over ~4.5MB use the extract-doc-async.js script
+// If the PDF is over ~4.5MB use an async example script in this repo instead
 const DOCUMENT_PATH = "YOUR_PDF.pdf";
 
 // Your Sensible API key
