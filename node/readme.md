@@ -1,4 +1,4 @@
-This starter code calls Sensible [extraction APIs](https://docs.sensible.so/reference#extract-data-from-a-document) and returns structured data from a PDF. You'll need an [API key](https://www.sensible.so/get-early-access).
+This starter code calls Sensible [extraction APIs](https://docs.sensible.so/reference#extract-data-from-a-document) and returns structured data from a PDF. You'll need an [API key]([https://www.sensible.so/get-early-access](https://app.sensible.so/account/?t=api_keys)).
 
 
 Run
