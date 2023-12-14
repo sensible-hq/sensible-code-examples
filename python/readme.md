@@ -25,7 +25,7 @@ To see example data in a response quickly, run extract_doc.py with an example PD
     - Create a doc type, for example, `test_auto_insurance_quote`.
     - Create a config in the doc type, for example `anyco`.
     - Paste the [example JSON](https://github.com/sensible-hq/sensible-docs/raw/main/readme-sync/assets/v0/json/anyco.json) into the left pane of the config editor.
-    - Publish the config: **Publish** > **Production**.
+    - Publish the config: **Publish configuration** > **Production**.
 - Open extract_doc.py in a text editor and specify:
   - the path to the example PDF you downloaded.
   - the name of the doc type you created.
