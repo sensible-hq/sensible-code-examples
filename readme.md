@@ -3,3 +3,4 @@ This example code calls Sensible [extraction APIs](https://docs.sensible.so/refe
 - [node](./node)
 - [python](./python)
 
+Note: See the [SDK guides](doc:sdk-guides) for convenient access to the Sensible API.
